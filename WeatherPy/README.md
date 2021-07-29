@@ -15,6 +15,6 @@ Your first requirement is to create a series of scatter plots to showcase the fo
 * Cloudiness (%) vs. Latitude
 ![](../output_data/City_Latitude_vs_Cloudiness.png)
 * Wind Speed (mph) vs. Latitude
-![](../output_data/City_Latitude_vs_Wind Speed (mph).png)
+![](../output_data/City_Latitude_vs_Wind Speed_(mph).png)
 
 
