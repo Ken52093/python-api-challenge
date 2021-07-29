@@ -9,12 +9,12 @@ In this example, you'll be creating a Python script to visualize the weather of 
 Your first requirement is to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (c) vs. Latitude
-![](../output_data/City Latitude vs Max Temperature.png)
+![](../output_data/City_Latitude_vs_Max_Temperature.png)
 * Humidity (%) vs. Latitude
-![](../output_data/City Latitude vs Humidity.png)
+![](../output_data/City_Latitude_vs_Humidity.png)
 * Cloudiness (%) vs. Latitude
-![](../output_data/City Latitude vs Cloudiness.png)
+![](../output_data/City_Latitude_vs_Cloudiness.png)
 * Wind Speed (mph) vs. Latitude
-![](../output_data/City Latitude vs Wind Speed (mph).png)
+![](../output_data/City_Latitude_vs_Wind Speed_(mph).png)
 
 
