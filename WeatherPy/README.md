@@ -8,17 +8,13 @@ In this example, you'll be creating a Python script to visualize the weather of 
 
 Your first requirement is to create a series of scatter plots to showcase the following relationships:
 
-* Temperature (F) vs. Latitude
+* Temperature (c) vs. Latitude
+![](../output_data/City Latitude vs Max Temperature.png)
 * Humidity (%) vs. Latitude
+![](../output_data/City Latitude vs Humidity.png)
 * Cloudiness (%) vs. Latitude
+![](../output_data/City Latitude vs Cloudiness.png)
 * Wind Speed (mph) vs. Latitude
+![](../output_data/City Latitude vs Wind Speed (mph).png)
 
-* Northern Hemisphere - Temperature (F) vs. Latitude
-* Southern Hemisphere - Temperature (F) vs. Latitude
-* Northern Hemisphere - Humidity (%) vs. Latitude
-* Southern Hemisphere - Humidity (%) vs. Latitude
-* Northern Hemisphere - Cloudiness (%) vs. Latitude
-* Southern Hemisphere - Cloudiness (%) vs. Latitude
-* Northern Hemisphere - Wind Speed (mph) vs. Latitude
-* Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
